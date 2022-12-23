@@ -9,7 +9,7 @@ Approach to the problem:
 
 • Visualized and analyzed the CPU time and memory usage of both the solutions by generating plots of the CPU time vs problem size and of Memory usage vs problem size for the two solutions.
 
-Summary of the visualizations:
+## Summary of the visualizations:
 ![Test Image 1](https://github.com/purvaingle/DNA-Sequence-Alignment-Problem/blob/main/Screen%20Shot%202022-12-22%20at%206.52.21%20PM.png?raw=true)
 
 
