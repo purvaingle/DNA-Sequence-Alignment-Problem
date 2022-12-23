@@ -18,5 +18,6 @@ Explanation: The memory efficient algorithm only consumes a linear amount of mem
 <img width="547" alt="Screen Shot 2022-12-22 at 6 58 06 PM" src="https://user-images.githubusercontent.com/90026828/209261993-14680524-6a77-4d9b-a055-80b7917391d2.png">
 
 Nature of the Graph (Logarithmic/ Linear/ Polynomial/ Exponential)
-Basic: Polynomial Efficient: Polynomial
+Basic: Polynomial 
+Efficient: Polynomial
 Explanation: The memory efficient algorithm takes twice as long as the basic algorithm, since it performs Cmn work at the root level, and Cmn/2 at the next level, and so on, which sums up to 2Cmn = O(mn). The basic algorithm simply uses dynamic programming, and there are mn unique subproblems, hence the runtime O(mn).
