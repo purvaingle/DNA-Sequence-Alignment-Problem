@@ -3,7 +3,9 @@ Please find the detailed description of the problem statement [here.](https://gi
 
 Approach to the problem:
 • Implemented basic and memory efficient Dynamic Programming algorithms for the DNA Sequence Alignment of two strings.
+
 • Computed the cost of the alignment, first string alignment, second string alignment (Consisting of A, C, T, G, _ (gap) characters), time and memory usage of the two solutions.
+
 • Visualized and analyzed the CPU time and memory usage of both the solutions by generating plots of the CPU time vs problem size and of Memory usage vs problem size for the two solutions.
 
 Summary of the visualizations:
