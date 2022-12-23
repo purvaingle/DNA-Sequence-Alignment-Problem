@@ -4,7 +4,7 @@ Summary
 
 
 ## Graph1 – Memory vs Problem Size (M+N)
-![Test Image 2](https://github.com/purvaingle/DNA-Sequence-Alignment-Problem/blob/main/Screen%20Shot%202022-12-22%20at%206.52.21%20PM.png?raw=true)<img width="505" alt="Screen Shot 2022-12-22 at 6 56 33 PM" src="https://user-images.githubusercontent.com/90026828/209261791-a6e3d092-f184-4a76-a7fe-9f4e20f1cc45.png">
+<img width="505" alt="Screen Shot 2022-12-22 at 6 56 33 PM" src="https://user-images.githubusercontent.com/90026828/209261791-a6e3d092-f184-4a76-a7fe-9f4e20f1cc45.png">
 
 Nature of the Graph (Logarithmic/ Linear/ Polynomial/ Exponential)
 Basic: Linear
