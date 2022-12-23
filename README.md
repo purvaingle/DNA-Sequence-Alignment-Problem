@@ -8,7 +8,7 @@ Summary of the results
 ## Graph1 – Memory vs Problem Size (M+N)
 <img width="505" alt="Screen Shot 2022-12-22 at 6 56 33 PM" src="https://user-images.githubusercontent.com/90026828/209261791-a6e3d092-f184-4a76-a7fe-9f4e20f1cc45.png">
 
-Nature of the Graph (Logarithmic/ Linear/ Polynomial/ Exponential)
+Nature of the Graph:
 
 Basic: Linear
 
@@ -20,7 +20,7 @@ Explanation: The memory efficient algorithm only consumes a linear amount of mem
 ## Graph2 – Time vs Problem Size (M+N)
 <img width="547" alt="Screen Shot 2022-12-22 at 6 58 06 PM" src="https://user-images.githubusercontent.com/90026828/209261993-14680524-6a77-4d9b-a055-80b7917391d2.png">
 
-Nature of the Graph (Logarithmic/ Linear/ Polynomial/ Exponential)
+Nature of the Graph:
 
 Basic: Polynomial 
 
